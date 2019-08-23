@@ -1,10 +1,6 @@
 from facebook_business.api import FacebookAdsApi
 from facebook_business.adobjects.adaccount import AdAccount
-from facebook_business.adobjects.adset import AdSet
-from facebook_business.adobjects.ad import Ad
 from facebook_business.adobjects.campaign import Campaign
-from facebook_business.adobjects.adsinsights import AdsInsights
-import sys
 
 def get_account(account):
     account_ad = AdAccount(account)
