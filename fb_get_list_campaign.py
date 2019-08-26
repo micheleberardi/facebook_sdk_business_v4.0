@@ -16,7 +16,7 @@ def get_campaign(account_ids):
         campaigns = campaign.api_get(fields=params.get('fields'), params=params)
         campaign_name = campaigns.get('name')
         campaign_id = campaigns.get('id')
-    return {'campaign_ids': campaign_id, 'campaign_name': campaign_name}
+        return {'campaign_ids': campaign_id, 'campaign_name': campaign_name}
 
 if __name__ == "__main__":
     my_app_id = 'xxxxxxxxxxxxxx'
