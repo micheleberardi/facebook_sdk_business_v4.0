@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
 
 '''
-RESULT 
+EXAMPLE RESULT 
 {'campaign_ids': '23843269296450128', 'campaign_name': 'Michelone - Facebook'}
 
 '''

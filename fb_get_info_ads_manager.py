@@ -118,7 +118,7 @@ if __name__ == "__main__":
 
 
 '''
-RESULT 
+EXAMPLE RESULT 
 INSIGHT RESULT   {'insight_id': '23843523751520251', 'insight_name': 'AD1', 'insight_clicks': '97', 'insight_cpc': '0.082371', 'insight_cpm': '2.136364', 'insight_cpp': '2.633487', 'insight_ctr': '2.593583', 'insight_spend': '7.99'}
 
 '''

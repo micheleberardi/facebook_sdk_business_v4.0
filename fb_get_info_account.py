@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 
 '''
-RESULT 
+EXAMPLE RESULT 
 {'account_id': 'act_XXXXXXXXXXX', 'account_name': 'michelone', 'account_time_zone_id': 7, 'account_time_zone_name': 'America/New_York', 'account_time_zone_offset_hours_utc': -4}
 
 '''
